@@ -1,6 +1,6 @@
 {
   "name": "@sarathramachandra/test-yarn-publish",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test yarn package repo with math utils of addition and subtraction",
   "main": "src/index.js",
   "scripts": {
