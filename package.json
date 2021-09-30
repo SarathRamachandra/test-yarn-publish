@@ -1,0 +1,19 @@
+{
+  "name": "@sarathramachandra/test-yarn-publish",
+  "version": "1.0.0",
+  "description": "Test yarn package repo with math utils of addition and subtraction",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/SarathRamachandra/test-yarn-publish.git",
+  "author": "SarathRamachandra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SarathRamachandra/test-yarn-publish/issues"
+  },
+  "homepage": "https://github.com/SarathRamachandra/test-yarn-publish#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
